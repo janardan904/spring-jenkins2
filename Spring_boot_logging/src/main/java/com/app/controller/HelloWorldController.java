@@ -16,6 +16,7 @@ public class HelloWorldController {
 		LOG.debug("******* Debug log is enabled *****");
 		LOG.warn("******* Warn log is enabled *****");
 		LOG.error("******* Error log is enabled *****");
+		System.out.println("hiiiii");
 	}
 
 	
